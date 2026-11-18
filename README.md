@@ -20,7 +20,6 @@ The objective of this project is to build, evaluate, and compare five supervised
 ---
 
 ## 3. GitHub Repository Link
-* **Repository URL:** `<INSERT_YOUR_BITS_GITHUB_REPO_LINK_HERE>`
 * **Repository Contents:**
   * `requirements.txt` — Python dependencies required to reproduce the environment.
   * `README.md` — Complete documentation, metrics comparison, visual chart, and model observations.
